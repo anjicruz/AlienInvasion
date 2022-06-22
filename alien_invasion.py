@@ -6,7 +6,6 @@ from settings import Settings
 from ship import Ship
 from bullet import Bullet
 
-
 class AlienInvasion:
     """Overall class to manage game assets and behavior."""
 
